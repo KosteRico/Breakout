@@ -1,0 +1,4 @@
+#Tue Nov 27 22:13:40 MSK 2018
+base.0=C\:\\Users\\KosteRico\\Desktop\\JAVA_GAME\\MFC\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
